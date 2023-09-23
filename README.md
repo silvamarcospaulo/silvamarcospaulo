@@ -14,27 +14,17 @@ meus conhecimentos e desenvolver habilidades práticas e de vivência
 no campo do desenvolvimento..
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/smpmarcospaulo/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:smpmarcospaulo@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/souomarcos/)
 
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Java](https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=Java&labelColor=0&color=000000
-)
-![C](https://img.shields.io/badge/C-C?style=for-the-badge&color=000000
-)
-![SQL](https://img.shields.io/badge/SQL-SQL?style=for-the-badge&logo=SQL&color=000000
-)
-![Cloud AWS](https://img.shields.io/badge/AWS-aws?style=for-the-badge&logo=Amazon&color=000000
-)
-![Flutter](https://img.shields.io/badge/Flutter-flutter?style=for-the-badge&logo=Flutter&color=000000
-)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,ae,git,github,md,html,css,java,spring,c,postgres,mysql,aws,flutter&perline=10" />
+  </a>
+</p>
+
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souomarcos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souomarcos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
