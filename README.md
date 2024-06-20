@@ -1,36 +1,40 @@
-# Marcos Paulo Silva
+# Olá, eu sou Marcos Paulo Silva!
 
-Olá, meu nome é Marcos Paulo Silva e sou graduando em Ciência da
-Computação na Universidade Federal de Goiás.
-Sou um apaixonado por  tecnologia e programação, e trago
-conhecimentos sólidos em SQL, C, Java e JavaScript.
-Minha determinação em aprender continuamente me impulsiona,
-enquanto minha iniciativa me permite explorar novos horizontes.
-Além da minha capacidade técnica, possuo habilidades de comunicação
-que me permitem colaborar efetivamente em equipes,
-visando atingir os objetivos do projeto de forma coesa.
-Estou atualmente em busca de uma oportunidade que me permita aplicar
-meus conhecimentos e desenvolver habilidades práticas e de vivência
-no campo do desenvolvimento..
+Sou estudante de Ciência da Computação na Universidade Federal de Goiás, focado em desenvolvimento backend com C#. Aqui você encontra um pouco sobre mim e meus projetos.
 
-### Conecte-se comigo
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:smpmarcospaulo@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/souomarcos/)
-
-
-### Habilidades
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,ae,git,github,md,html,css,java,spring,c,postgres,mysql,aws,flutter&perline=10" />
+## Conecte-se comigo
+<div align="center">
+  <a href="mailto:silvampsmarcospaulo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" alt="E-mail">
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/silvamarcospaulo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC" alt="LinkedIn">
+  </a>
+</div>
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souomarcos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souomarcos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Habilidades
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,ae,git,github,java,spring,c,cs,dotnet&perline=10" />
+  </a>
+</div>
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=souomarcos&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/souomarcos/dio-lab-open-source)
-[![Silva-Bank](https://github-readme-stats.vercel.app/api/pin/?username=souomarcos&repo=Silva-Bank&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/souomarcos/Silva-Bank)
-[![Projeto Xilften](https://github-readme-stats.vercel.app/api/pin/?username=souomarcos&repo=Projeto-Java-Alura-Xilften&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/souomarcos/Projeto-Java-Alura-Xilften)
-[![TipsCounter](https://github-readme-stats.vercel.app/api/pin/?username=souomarcos&repo=tipscounter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://souomarcos.github.io/tipscounter/)
+## Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silvamarcospaulo&theme=dark&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvamarcospaulo&layout=compact&theme=dark&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+</div>
+
+## Meus Principais Projetos
+
+- [Cod3rsGrowth](https://github.com/silvamarcospaulo/Cod3rsGrowth)
+- [Silva-Bank](https://github.com/silvamarcospaulo/Silva-Bank)
+- [Projeto-Java-Alura-Xilften](https://github.com/silvamarcospaulo/Projeto-Java-Alura-Xilften)
+- [tipscounter](https://silvamarcospaulo.github.io/tipscounter/)
+
+Cada projeto possui um link direto para o repositório, onde você pode explorar mais detalhes e contribuições.
+
+Se quiser discutir colaborações ou projetos futuros, sinta-se à vontade para entrar em contato por e-mail ou LinkedIn. Vamos construir algo incrível juntos!
