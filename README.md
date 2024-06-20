@@ -1,6 +1,9 @@
 # Olá, eu sou Marcos Paulo Silva!
 
-Sou estudante de Ciência da Computação na Universidade Federal de Goiás, focado em desenvolvimento backend com C#. Aqui você encontra um pouco sobre mim e meus projetos.
+Sou estudante de Ciência da Computação na Universidade Federal de Goiás.
+Atualmente estou trabalhando como estagiário de desenvolvimento de Software.
+Estou em busca de me tornar um desenvoledor back-end.
+Meu foco é desenvolvimento C# e Java.
 
 ## Conecte-se comigo
 <div align="center">
@@ -12,7 +15,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Goiás, foc
   </a>
 </div>
 
-## Habilidades
+## Habilidades que estou estudando
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,ps,ae,git,github,java,spring,c,cs,dotnet&perline=10" />
