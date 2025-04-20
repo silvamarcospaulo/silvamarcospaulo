@@ -1,9 +1,10 @@
 # Olá, eu sou Marcos Paulo Silva!
 
-Sou estudante de Ciência da Computação na Universidade Federal de Goiás.
-Atualmente estou trabalhando como estagiário de desenvolvimento de Software.
-Estou em busca de me tornar um desenvoledor back-end.
-Meu foco é desenvolvimento C# e Java.
+Desenvolvedor de Software desde 2024, com atuação em aplicações web e soluções cloud. Experiência com .NET (C#), Java Spring e Angular, aplicando boas práticas de arquitetura, versionamento com Git e integração contínua.
+
+Atualmente integro o time de desenvolvimento cloud da Invent Software, contribuindo para a aplicação TaxPlus.NF-e e conduzindo a migração do sistema TaxPlus.GNRE de desktop para arquitetura em nuvem, com foco em escalabilidade, desempenho e manutenção.
+
+Também compartilho conteúdo técnico e experiências de desenvolvimento no Instagram (@marcospaulo.dev), com foco em comunidade e troca de conhecimento.
 
 ## Conecte-se comigo
 <div align="center">
